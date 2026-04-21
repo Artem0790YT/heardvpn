@@ -1,6 +1,6 @@
 #profile-title: 🏳️ LTE|LITE|VIP
 #announce: Совет: Настройки>Подписки>Сортировать по пингу, а затем нажми на спидометр. Меньше ms лучше, регулярно нажимайте на 🔄️
-#profile-update-interval: 1
+#profile-update-interval: 12
 #support-url: https://t.me/artem0970
 #profile-web-page-url: https://t.me/heard_vpn
 
