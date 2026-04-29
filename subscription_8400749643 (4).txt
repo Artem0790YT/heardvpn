@@ -1,3 +1,9 @@
+#profile-title: 🏳️ 🛜 LTE|WIFI|VIP
+#announce:  Часть локации может не работать у моб. Билайн. Весь ру трафик идет мимо впн.
+#profile-update-interval: 6
+#support-url: https://t.me/
+#profile-web-page-url: https://t.me/
+
 vless://8a11736f-7938-4cef-ab19-c27dcda23123@109.120.191.233:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%95%D0%9B%D0%AB%D0%A5%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%9E%D0%92%20%7C%20NL
 vless://8a11736f-7938-4cef-ab19-c27dcda23123@109.120.191.233:8181?encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%95%D0%9B%D0%AB%D0%A5%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%9E%D0%92%20%7C%20NL
 vless://8a11736f-7938-4cef-ab19-c27dcda23123@109.120.191.233:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%91%D0%95%D0%9B%D0%AB%D0%A5%20%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%9E%D0%92%20%7C%20NL
